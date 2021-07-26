@@ -2,7 +2,7 @@ class Server {
   constructor() {}
 
   start = () => {
-    console.log("to be implemented !");
+    console.log('to be implemented !');
   };
 }
 
